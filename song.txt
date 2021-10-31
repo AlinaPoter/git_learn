@@ -12,3 +12,5 @@ merge
 + 1 way of testing
 
 some more in feature
+
+testing cohdlict solving
